@@ -12,7 +12,7 @@ Since these views are largely experimental right now, [feedback is very welcome]
 
 #### Article View
 
-Article View is a simple view that displays the bullet bullets as normal paragraphs. This view hides the bullet points and adds more margin between the paragraphs.
+Article View is a simple view that displays the bullet bullets as normal paragraphs. This view hides the bullet points and adds more margin between the paragraphs. You can switch to the Article View by clicking on the menu icon at the top right corner and select "View as article". This option is only accessible on web and desktop app right now.
 
 We recommend using this view to preview your writing if you're using Dynalist to iterate on your writing.
 
