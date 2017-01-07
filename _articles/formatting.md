@@ -26,7 +26,7 @@ Visual thinkers can take advantage of color labels to quickly categorize things.
 
 In the item menu, you'll see a bunch of "A"s on different background colors. Click on one to apply a color label. Click on the current color again will remove the color.
 
-The shortcut to apply color label 1~6 is `Ctrl+Shift+1~6`. The shortcut to clear the current color label is `Ctrl+Shift+```.
+The shortcut to apply color label 1~6 is `Ctrl+Shift+1~6`. The shortcut to clear the current color label is `Ctrl+Shift+`` `.
 
 #### Bold
 
