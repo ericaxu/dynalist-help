@@ -12,6 +12,22 @@ Dynalist's Markdown syntax is identical to Markdown except that `*italic*` and `
 
 Most of the shortcuts work with multiple items. Simply drag to select the items you want and use the menu or press the shortcut.
 
+#### Heading
+
+You can emphasize an item by making it a heading. In the item menu, click on "H1" to make it a level 1 heading, and so on. There are 3 levels of heading.
+
+To clear the current heading, click on its current heading option, which is marked by blue (e.g. to clear a level 2 heading, click on the "H2" again in the item menu).
+
+The shortcut to set heading 1~3 is `Ctrl+Alt+1~3`. The shortcut to clear the current heading formatting is `Ctrl+Alt+0`.
+
+#### Color labels
+
+Visual thinkers can take advantage of color labels to quickly categorize things.
+
+In the item menu, you'll see a bunch of "A"s on different background colors. Click on one to apply a color label. Click on the current color again will remove the color.
+
+The shortcut to apply color label 1~6 is `Ctrl+Shift+1~6`. The shortcut to clear the current color label is `Ctrl+Shift+```.
+
 #### Bold
 
 You can make bold text `**like this**`. The associated keyboard shortcut is `Ctrl+B`.
@@ -51,14 +67,6 @@ You can write LaTeX equations `$$like this$$`. The associated keyboard shortcut 
 Dynalist uses KaTeX by Khan Academy to render LaTeX. It's faster than MathJAX but is still incomplete at this point. Their project is [open-source and hosted on GitHub](https://github.com/Khan/KaTeX). You're welcome to create an issue there if you feel like it's missing the functionalities you need.
 
 To see all TeX functions supported by KaTeX, please refer to [this list](https://github.com/Khan/KaTeX/wiki/Function-Support-in-KaTeX).
-
-#### Heading
-
-You can emphasize an item by making it a heading. In the item menu, click on "H1" to make it a level 1 heading, and so on. There are 3 levels of heading.
-
-To clear the current heading, click on its current heading option, which is marked by blue (e.g. to clear a level 2 heading, click on the "H2" again in the item menu).
-
-The shortcut to set heading 1/2/3 is `Ctrl+Alt+1/2/3`. The shortcut to clear the current heading formatting is `Ctrl+Alt+0`.
 
 #### Keyboard shortcuts
 
