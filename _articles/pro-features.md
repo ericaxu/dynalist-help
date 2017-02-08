@@ -39,6 +39,8 @@ After it's successfully linked, there are two more things to set up in order for
 
 After the above steps, Dynalist will start syncing the dates in these selected documents in the background to your Google Calendar.
 
+> Note: the sync happens in the background every minute, and it takes some time to process the events and send them over to Google. If you refresh your Google Calendar right after you add a date, it’s normal that it doesn’t show up right away. Do let us know if it still doesn’t show up after 10 minutes or so (make sure the document is synced though!).
+
 #### Priority support
 
 We answer feedback and requests from Pro users first to thank you for the generous support.
