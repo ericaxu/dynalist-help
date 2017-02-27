@@ -20,7 +20,7 @@ Similar to browser bookmarks, bookmarks have sensible default names when you add
 
 #### Bookmarking documents
 
-In the file pane, you can right click on the document title and choose "Add to bookmarks". Alternatively, click on the ☆ icon in font of its title when a document is open.
+In the file pane, you can right click on the document title and choose "Add to bookmarks". Alternatively, click on the ☆ icon in front of its title when a document is open.
 
 #### Bookmarking lists
 
