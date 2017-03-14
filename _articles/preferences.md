@@ -165,7 +165,7 @@ The format is the following:
 ||kk|01 02 ... 23 24|
 |Minute|m|0 1 ... 58 59|
 ||mm|00 01 ... 58 59|
-||Second|s|0 1 ... 58 59|
+|Second|s|0 1 ... 58 59|
 ||ss|00 01 ... 58 59|
 |Fractional Second|S|0 1 ... 8 9|
 ||SS|00 01 ... 98 99|
