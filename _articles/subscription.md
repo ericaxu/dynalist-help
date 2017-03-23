@@ -20,7 +20,7 @@ Please refer to [Dynalist Pro features](../pro-features).
 
 #### Can I get a free trial of Dynalist Pro?
 
-If you import your data from WorkFlowy, you can get 14 days of free trial. Soon we will offer free trial to non-WorkFlowy users as well.
+If you import your data from WorkFlowy, you can get 14 days of free trial. You can also get 14 days of free trial by finishing the onboarding tutorial.
 
 #### How do I pay?
 
